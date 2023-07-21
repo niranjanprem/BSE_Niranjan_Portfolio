@@ -1,6 +1,6 @@
 # Text-to-speech
 
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+This project is a python-based text-to-speech document reader. It uses the raspberry pi and its camera to convert any images placed on the housing and reads it out loud with the speaker. The biggest challenge with this project was getting the camera to read properly. As it has no auto-focus feature, the lighting had to be very good for the code to be able to read text,
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
@@ -20,7 +20,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="[https://youtu.be/NiRmhFbF8x4](https://www.youtube.com/embed/NiRmhFbF8x4")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
 For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
@@ -28,7 +28,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 
-  Since my previous milestone, I was able to find a hilt for the camera that was stable and the hardware aspect of the project is complete. I also converted the old command line code into the newer picamera2 database. One benefit of this change was that the camera preview was always available, this enables the user to set up the camera and make sure it is in focus/readable before clicking the button. Another problem that I stumbled upon was the camera rotation. The camera would be staring at the document it was supposed to read **flipped**, which meant that the Pi was reading an upside-down version of the text and would output gibberish. To solve this, I looked in the raspberry pi camera documentation and found a way to rotate the camera image 180 degrees. I also got rid of the breadboard entirely, and soldered wires from the Pi to the LED and button to enable a more portable and robust design.
+  Since my previous milestone, I was able to find a hilt for the camera that was stable and the hardware aspect of the project is complete. I also converted the old command line code into the newer picamera2 database. One benefit of this change was that the camera preview was always available, this enables the user to set up the camera and make sure it is in focus/readable before clicking the button. Another problem that I stumbled upon was the camera rotation. The camera would be staring at the document it was supposed to read **flipped**, which meant that the Pi was reading an upside-down version of the text and would output gibberish. To solve this, I looked in the raspberry pi camera documentation and found a way to rotate the camera image 180 degrees. I also got rid of the breadboard entirely, and soldered wires from the Pi to the LED and button to enable a more portable and robust design. After everything I've learned at BSE, I hope to create more projects using the raspberry Pi and using my knowledge of soldering and the experience I've 
 
 
 
