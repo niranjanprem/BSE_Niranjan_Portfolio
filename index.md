@@ -43,7 +43,7 @@ Since my first milestone, I got the code to work and properly read text. I have 
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="[[https://www.youtube.com/embed/CaCazFBhYKs](https://youtu.be/Z37J3neOE3k)](https://youtu.be/Z37J3neOE3k)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z37J3neOE3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 My project is a text-to-speech reader in the python language. To build the hardware aspect of this project, I used the raspberry pi camera and the breadboard. The breadboard electrically connects components like the LED and the button to allow them to integrate with the camera and code. Some technical progress I've made so far is connecting all the hardware components electrically and making sure the camera works. The next steps I want to take is to ditch the breadboard and move onto something more stable and presentable for maximum portability.
 
