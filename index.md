@@ -1,12 +1,11 @@
 # Text-to-speech
 
-This project is a python-based text-to-speech document reader. It uses the raspberry pi and its camera to convert any images placed on the housing and reads it out loud with the speaker. The biggest challenge with this project was getting the camera to read properly. As it has no auto-focus feature, the lighting had to be very good for the code to be able to read text,
+This project is a python-based text-to-speech document reader. It uses the raspberry pi and its camera to convert any images placed on the housing and reads it out loud with the speaker. The biggest challenge with this project was getting the camera to read properly. As it has no auto-focus feature, the lighting had to be very good for the code to be able to read text. I got over this struggle by making a better camera stand and increasing the natural lighting.
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
+HTML 
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
-```
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -74,14 +73,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Item Name | What the item is used for | $189.99 | <a href="https://a.co/d/91VInze"> Link </a> |
+| Item Name | What the item is used for | $19.99 | <a href="https://a.co/d/hh1u0lD"> Link </a> |
+| Item Name | What the item is used for | $12.99 | <a href="https://a.co/d/2gat9Qd"> Link </a> |
 
-# Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
-
-To watch the BSE tutorial on how to create a portfolio, click here.
