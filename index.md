@@ -2,8 +2,7 @@
 
 This project is a python-based text-to-speech document reader. It uses the raspberry pi and its camera to convert any images placed on the housing and reads it out loud with the speaker. The biggest challenge with this project was getting the camera to read properly. As it has no auto-focus feature, the lighting had to be very good for the code to be able to read text. I got over this struggle by making a better camera stand and increasing the natural lighting.
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-HTML 
+
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
 
@@ -17,16 +16,8 @@ HTML
   
 # Final Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/POlnQBgIE1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
-
   Since my previous milestone, I was able to find a hilt for the camera that was stable and the hardware aspect of the project is complete. I also converted the old command line code into the newer picamera2 database. One benefit of this change was that the camera preview was always available, this enables the user to set up the camera and make sure it is in focus/readable before clicking the button. Another problem that I stumbled upon was the camera rotation. The camera would be staring at the document it was supposed to read **flipped**, which meant that the Pi was reading an upside-down version of the text and would output gibberish. To solve this, I looked in the raspberry pi camera documentation and found a way to rotate the camera image 180 degrees. I also got rid of the breadboard entirely, and soldered wires from the Pi to the LED and button to enable a more portable and robust design. After everything I've learned at BSE, I hope to create more projects using the raspberry Pi and using my knowledge of soldering and the experience I've gained with this hands-on learning style will help me in the future.
 
 
@@ -35,13 +26,12 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/y3VAmNlER5Y](https://youtu.be/NiRmhFbF8x4)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NiRmhFbF8x4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Since my first milestone, I got the code to work and properly read text. I have also made lots of hardware improvements including building the housing for the components. I wanted this document reader to be very portable, something that could be put in a backpack and transported from room to room. My solution to this was to hold the raspberry pi down into the housing with tape and cut outlines for the cables to be connected from the outside of the box. One challenge was finding a proper box for this project since I did not want to use wood. Some boxes were very big and caused the speaker to be muffled and some boxes were too small to fit certain components in. In the end, I used a 4 inch high cardboard box and kept the speaker **outside**** of the box. This made the speech a lot louder and more legible. Before my next milestone, I need to get a few things done such as finishing the hilt for the camera, 
 
 # First Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z37J3neOE3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
