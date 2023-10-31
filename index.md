@@ -24,13 +24,15 @@ Since my previous milestone, I was able to find a hilt for the camera that was s
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NiRmhFbF8x4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Second milestone](https://img.youtube.com/vi/NiRmhFbF8x4/0.jpg)](https://www.youtube.com/watch?v=NiRmhFbF8x4)
+
 
 Since my first milestone, I got the code to work and properly read text. I have also made lots of hardware improvements, including building the housing for the components. I wanted this document reader to be very portable, something that could be put in a backpack and transported from room to room. My solution to this was to hold the Raspberry Pi down into the housing with tape and cut outlines for the cables to be connected from the outside of the box. One challenge was finding a proper box for this project since I did not want to use wood. Some boxes were very big and caused the speaker to be muffled, and some boxes were too small to fit certain components in. In the end, I used a 4-inch high cardboard box and kept the speaker outside of the box. This made the speech a lot louder and more legible. Before my next milestone, I need to get a few things done, such as finishing the hilt for the camera.
 
 # First Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z37J3neOE3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/NiRmhFbF8x4/0.jpg)](https://www.youtube.com/watch?v=NiRmhFbF8x4)
+
 
 My project is a text-to-speech reader in the Python language. To build the hardware aspect of this project, I used the Raspberry Pi camera and the breadboard. The breadboard electrically connects components like the LED and the button to allow them to integrate with the camera and code. Some technical progress I've made so far is connecting all the hardware components electrically and making sure the camera works. The next steps I want to take are to ditch the breadboard and move onto something more stable and presentable for maximum portability.
 
