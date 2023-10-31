@@ -15,7 +15,8 @@ This project is a python-based text-to-speech document reader. It uses the Raspb
 
 # Final Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/POlnQBgIE1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/POlnQBgIE1E/0.jpg)](https://www.youtube.com/watch?v=POlnQBgIE1E)
+
 
 Since my previous milestone, I was able to find a hilt for the camera that was stable, and the hardware aspect of the project is complete. I also converted the old command line code into the newer picamera2 database. One benefit of this change was that the camera preview was always available, enabling the user to set up the camera and make sure it is in focus/readable before clicking the button. Another problem that I stumbled upon was the camera rotation. The camera would be staring at the document it was supposed to read **flipped**, which meant that the Pi was reading an upside-down version of the text and would output gibberish. To solve this, I looked in the Raspberry Pi camera documentation and found a way to rotate the camera image 180 degrees. I also got rid of the breadboard entirely and soldered wires from the Pi to the LED and button to enable a more portable and robust design. After everything I've learned at BSE, I hope to create more projects using the Raspberry Pi and using my knowledge of soldering, and the experience I've gained with this hands-on learning style will help me in the future.
 
