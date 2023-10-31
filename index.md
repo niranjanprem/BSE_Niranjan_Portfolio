@@ -10,8 +10,7 @@ This project is a python-based text-to-speech document reader. It uses the Raspb
 | Niranjan Prem | California High School | Electrical Engineering | Incoming Junior
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
-
-![Image of the Engineer]((https://cdn.discordapp.com/attachments/1131051080084619264/1131051110380097586/0af3ed6a-1675-40d2-9015-36b11d63df0c.jpeg?ex=654af36e&is=65387e6e&hm=33a92dda914a2f8d010d46950af50da985be554c4568ae8c36b3cc279feda51b&))
+![Image of the Engineer](https://cdn.discordapp.com/attachments/1131051080084619264/1131051110380097586/0af3ed6a-1675-40d2-9015-36b11d63df0c.jpeg?ex=654af36e&is=65387e6e&hm=33a92dda914a2f8d010d46950af50da985be554c4568ae8c36b3cc279feda51b&)
 
 # Final Milestone
 
