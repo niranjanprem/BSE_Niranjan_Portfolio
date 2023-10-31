@@ -10,7 +10,7 @@ This project is a python-based text-to-speech document reader. It uses the Raspb
 | Niranjan Prem | California High School | Electrical Engineering | Incoming Junior
 
 
-![Image of the Engineer](https://cdn.discordapp.com/attachments/1166245601252483134/1168781482886697010/Screenshot_2023-10-30_at_10.20.11_PM.png?ex=65530394&is=65408e94&hm=f7bb65a29ff17e83adb20aa499ee4b58312231ee9eae6711836d51732ddaf970&)
+![Image of the Engineer](https://cdn.discordapp.com/attachments/1166245601252483134/1168782428425429082/Screenshot_2023-10-30_at_10.23.42_PM.png?ex=65530475&is=65408f75&hm=9644b5bb5e9831476c6dc2ce3bff36e492150c9b22b2455a4bcc2f015c02ad73&)
 
 # Final Milestone
 
