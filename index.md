@@ -11,7 +11,7 @@ This project is a python-based text-to-speech document reader. It uses the Raspb
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Image of the Engineer](image_link_here)
+![Image of the Engineer]((https://cdn.discordapp.com/attachments/1131051080084619264/1131051110380097586/0af3ed6a-1675-40d2-9015-36b11d63df0c.jpeg?ex=654af36e&is=65387e6e&hm=33a92dda914a2f8d010d46950af50da985be554c4568ae8c36b3cc279feda51b&))]
 
 # Final Milestone
 
@@ -22,7 +22,6 @@ Since my previous milestone, I was able to find a hilt for the camera that was s
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 [![Second milestone](https://img.youtube.com/vi/NiRmhFbF8x4/0.jpg)](https://www.youtube.com/watch?v=NiRmhFbF8x4)
 
@@ -39,8 +38,6 @@ My project is a text-to-speech reader in the Python language. To build the hardw
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resources to create professional schematic diagrams, though BSE recommends Tinkercad because it can be done easily and for free in the browser.
 
-# Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here](https://www.markdownguide.org/extended-syntax/) to learn how to customize it to your project needs.
 
-```python
-# Your Python code here
+
+
