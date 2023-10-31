@@ -35,9 +35,3 @@ Since my first milestone, I got the code to work and properly read text. I have 
 
 My project is a text-to-speech reader in the Python language. To build the hardware aspect of this project, I used the Raspberry Pi camera and the breadboard. The breadboard electrically connects components like the LED and the button to allow them to integrate with the camera and code. Some technical progress I've made so far is connecting all the hardware components electrically and making sure the camera works. The next steps I want to take are to ditch the breadboard and move onto something more stable and presentable for maximum portability.
 
-# Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resources to create professional schematic diagrams, though BSE recommends Tinkercad because it can be done easily and for free in the browser.
-
-
-
-
